@@ -1,3 +1,3 @@
 # Calculator
 
-Projeto de APS
+APS Project
